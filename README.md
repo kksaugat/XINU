@@ -192,4 +192,4 @@ Dr. Brylow's Embedded XINU Lab Infrastructure Page
 --------------------------------------------------
 	More information about the Embedded XINU Lab at Marquette University
 	http://www.mscs.mu.edu/~brylow/xinu/
-# XINU
+
