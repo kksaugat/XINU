@@ -1,4 +1,4 @@
-# XINU
+
 # Embedded-Xinu
 README: basic information about the directory tree and how to build an image.
 Embedded XINU, Copyright (C) 2007.  All rights reserved.
